@@ -1,1 +1,1 @@
-# maleria-disease-prediction-using-transfer-learning
+# Malaria-Detection
