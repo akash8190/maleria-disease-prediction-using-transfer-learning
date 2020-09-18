@@ -1,5 +1,6 @@
 # Malaria-Detection using transfer learning
-![image](https://storage.googleapis.com/kaggle-datasets-images/87153/200743/31c387765e937986306b32afe5b7148c/data-original.jpg?t=2018-12-05-05-57-20)
+
+ ![test](https://bloximages.newyork1.vip.townnews.com/newsminer.com/content/tncms/assets/v3/editorial/0/17/017c4f80-fc16-11e4-8746-03aa55ecb947/5557bc8ba94c6.image.jpg?resize=400%2C277)
 
 
 In this project we simply detect malaria using one of the best deep-learning technique is called tranfer learning
