@@ -15,7 +15,7 @@ Deep learning is part of a broader family of machine learning methods based on a
 Transfer learning is a research problem in machine learning that focuses on storing knowledge gained while solving one problem and applying it to a different but related problem. For example, knowledge gained while learning to recognize cars could apply when trying to recognize trucks.
 
 ## dataset
-dataset is picked from kaggle
+dataset is picked from kaggle.
 
 ## technology used
 1)python
