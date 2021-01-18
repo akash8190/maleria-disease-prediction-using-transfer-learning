@@ -3,7 +3,7 @@
  ![test](https://bloximages.newyork1.vip.townnews.com/newsminer.com/content/tncms/assets/v3/editorial/0/17/017c4f80-fc16-11e4-8746-03aa55ecb947/5557bc8ba94c6.image.jpg?resize=400%2C277)
 
 
-In this project we simply detect malaria using one of the best deep-learning technique is called transfer learning
+In this project we simply detect malaria using one of the best deep-learning technique is called transfer learning.
 
 ## deep learning
 Deep learning is part of a broader family of machine learning methods based on artificial neural networks with representation learning. Learning can be supervised, semi-supervised or unsupervised.
